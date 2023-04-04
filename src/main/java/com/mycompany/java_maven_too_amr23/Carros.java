@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package br.edu.ifsul.bcc.too.topico3.exercicios;
+//package br.edu.ifsul.bcc.too.topico3.exercicios;
 
-import br.edu.ifsul.bcc.too.topico3.Colecoes;
-import br.edu.ifsul.bcc.too.topico3.util.Aluno;
+//import br.edu.ifsul.bcc.too.topico3.Colecoes;
+//import br.edu.ifsul.bcc.too.topico3.util.Aluno;
 import java.util.ArrayList;
 import java.util.Collections;
 
